@@ -1,0 +1,1 @@
+web: python zhopa_bot.py
