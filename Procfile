@@ -1,1 +1,1 @@
-web: python zhopa_bot.py
+web: python3 zhopa_bot.py
